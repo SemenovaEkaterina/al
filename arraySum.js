@@ -31,11 +31,11 @@ function arraySum(arr) {
     return arr.slice(finalI, finalJ + 1);
 }
 
-console.log(arraySum([-2, -6, 6, 25, 8, 11, -3, 9]));
+// console.log(arraySum([-2, -6, 6, 25, 8, 11, -3, 9]));
 // [ 6, 25, 8, 11, -3, 9 ]
-console.log(arraySum([1, 2, 3, -4]));
+// console.log(arraySum([1, 2, 3, -4]));
 // [ 1, 2, 3 ]
-console.log(arraySum([1, 2, 3, -4, 6]));
+// console.log(arraySum([1, 2, 3, -4, 6]));
 // [ 1, 2, 3, -4, 6 ]
-console.log(arraySum([-1, 1, 2, 3, -4, 6]));
+// console.log(arraySum([-1, 1, 2, 3, -4, 6]));
 // [ 1, 2, 3, -4, 6 ]
