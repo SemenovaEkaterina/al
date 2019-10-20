@@ -3,7 +3,7 @@ function prime(n) {
     for (var i = 2; i <= n; i++) {
         arr.push(i);
     }
-    for (var p = 0; p < Math.sqrt(n); p++) {
+    for (var p = 0; p <= Math.sqrt(n); p++) {
         var divider = arr[p];
         var j = p + 1;
         while (j < arr.length) {
