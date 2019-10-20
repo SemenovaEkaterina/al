@@ -16,6 +16,10 @@ function select(arr) {
 }
 
 // console.log(select([2, 1]));
+// [ 1, 2 ]
 // console.log(select([2, 1, 3]));
+// [ 1, 2, 3 ]
 // console.log(select([2, 3, 1]));
+// [ 1, 2, 3 ]
 // console.log(select([0, 2, 1, 4]));
+// [ 0, 1, 2, 4 ]

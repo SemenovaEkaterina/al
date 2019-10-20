@@ -52,5 +52,7 @@ function depth(tree) {
     return parseNode(tree);
 }
 
-console.log(width(tree));
-console.log(depth(tree));
+// console.log(width(tree));
+// [ 'A', 'B', 'F', 'C', 'D', 'E' ]
+// console.log(depth(tree));
+// [ 'A', 'B', 'C', 'E', 'D', 'F' ]

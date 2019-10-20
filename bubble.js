@@ -12,7 +12,16 @@ function bubble(arr) {
 }
 
 // console.log(bubble([5, 2, 1]));
+// [ 1, 2, 5 ]
+
 // console.log(bubble([1, 5, 2, 1]));
+// [ 1, 1, 2, 5 ]
+
 // console.log(bubble([5, 1, 4, 2, 8]));
+// [ 1, 2, 4, 5, 8 ]
+
 // console.log(bubble([8, 1, 4, 2, 5]));
+// [ 1, 2, 4, 5, 8 ]
+
 // console.log(bubble([8, 1, 4, 10, 5]));
+// [ 1, 4, 5, 8, 10 ]
